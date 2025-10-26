@@ -78,7 +78,7 @@ Bachelor of Engineering in Production Engineering | GPA: 8.21 / 10
 
 ## GitHub Activity
 ![Anto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antodelinxavier&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adelinxavier&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antodelinxavier&layout=compact&theme=default)
 
 ---
 
