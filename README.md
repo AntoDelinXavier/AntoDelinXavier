@@ -36,11 +36,11 @@ I am a Data Science graduate student at the University of Maryland, College Park
 
 ## Selected Projects
 
-**Customer Churn Prediction** – Machine learning model for telecom churn with cost-sensitive optimization (ROC-AUC 0.89).  
-**Generative AI Ticket Summarizer** – GPT + LangChain pipeline for automatic summarization of support tickets.  
-**Cross-Sell and Upsell Recommendation System** – Association rule mining using Apriori and FP-Growth for targeted marketing.  
-**Predictive Regression for Composite Materials** – Box-Behnken DOE and polynomial regression to predict wear rates.  
-**HR Analytics Dashboard** – Power BI-based dashboard for key HR metrics: hiring, attrition, and engagement.
+- **Customer Churn Prediction** – Machine learning model for telecom churn with cost-sensitive optimization (ROC-AUC 0.89).  
+- **Generative AI Ticket Summarizer** – GPT + LangChain pipeline for automatic summarization of support tickets.  
+- **Cross-Sell and Upsell Recommendation System** – Association rule mining using Apriori and FP-Growth for targeted marketing.  
+- **Predictive Regression for Composite Materials** – Box-Behnken DOE and polynomial regression to predict wear rates.  
+- **HR Analytics Dashboard** – Power BI-based dashboard for key HR metrics: hiring, attrition, and engagement.
 
 ---
 
