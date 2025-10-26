@@ -48,12 +48,13 @@ I am a Data Science graduate student at the University of Maryland, College Park
 
 | Category | Tools and Frameworks |
 |-----------|----------------------|
-| **Programming** | Python, SQL, R, C, C++ |
+| **Data Analysis** | Python (Pandas, NumPy, SciPy), R, SQL, MS Office, GSuite |
 | **Machine Learning** | Scikit-learn, XGBoost, TensorFlow, PyTorch, LangChain |
+| **MLOps / DevOps** | Docker, GitHub Actions, MLflow |
 | **Data Engineering** | Hadoop, Spark, MLflow, Azure Databricks |
 | **Databases** | PostgreSQL, MongoDB |
 | **Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
-| **Other Tools** | AWS, Docker, Git, SciPy, MS Office, GSuite |
+| **Cloud** | AWS , Azure |
 
 ---
 
