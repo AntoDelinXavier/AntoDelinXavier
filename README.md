@@ -36,11 +36,13 @@ I am a Data Science graduate student at the University of Maryland, College Park
 
 ## Selected Projects
 
-- **Customer Churn Prediction** – Machine learning model for telecom churn with cost-sensitive optimization (ROC-AUC 0.89).  
-- **Generative AI Ticket Summarizer** – GPT + LangChain pipeline for automatic summarization of support tickets.  
-- **Cross-Sell and Upsell Recommendation System** – Association rule mining using Apriori and FP-Growth for targeted marketing.  
-- **Predictive Regression for Composite Materials** – Box-Behnken DOE and polynomial regression to predict wear rates.  
-- **HR Analytics Dashboard** – Power BI-based dashboard for key HR metrics: hiring, attrition, and engagement.
+- **[Customer Churn Prediction](https://github.com/AntoDelinXavier/Customer-Churn-Prediction)** – Machine learning model for telecom churn with cost-sensitive optimization (ROC-AUC 0.89).  
+- **[Generative AI Ticket Summarizer](https://github.com/AntoDelinXavier/Generative-AI-Ticket-Summarizer)** – GPT + LangChain pipeline for automatic summarization of support tickets.  
+- **[Cross-Sell and Upsell Recommendation System](https://github.com/AntoDelinXavier/Recommendation-System)** – Association rule mining using Apriori and FP-Growth for targeted marketing.  
+- **[Predictive Regression for Composite Materials](https://github.com/AntoDelinXavier/Composite-Material-Regression)** – Box-Behnken DOE and polynomial regression to predict wear rates.  
+- **[HR Analytics Dashboard](https://github.com/AntoDelinXavier/HR-Analytics-Dashboard)** – Power BI-based dashboard for key HR metrics: hiring, attrition, and engagement.  
+- **[Diabetic Retinopathy Detection Using Deep Learning](https://github.com/AntoDelinXavier/Diabetic-Retinopathy-Detection-CNN)** – CNN-based EfficientNet model trained on Kaggle fundus image datasets to detect diabetic retinopathy, achieving 87.6% accuracy for binary classification.  
+- **[Chicken Disease Classification Model](https://github.com/AntoDelinXavier/Chicken-Disease-Classification-Model)** – Deep learning system for classifying chicken fecal images as healthy or infected (Coccidiosis) using CNNs, deployed via AWS with CI/CD pipelines and Flask API.  
 
 ---
 
