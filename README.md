@@ -1,8 +1,7 @@
 # Anto Delin Xavier
 
 **Data Analyst / Scientist**  
-University of Maryland, College Park  
-adelin@umd.edu | +1 (240) 351-0894 | [LinkedIn](https://www.linkedin.com/in/anto-delin-xavier-5906b589/)
+antodelincs3@gmail.com | +1 (240) 351-0894 | [LinkedIn](https://www.linkedin.com/in/anto-delin-xavier-5906b589/)
 
 ---
 
