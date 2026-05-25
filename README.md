@@ -37,16 +37,16 @@ Data science professional with expertise in ML models, GenAI pipelines, and anal
 
 ## Research Experience
 
-**SAGE: Bayesian Phase Segmentation and Materials Property Prediction** *(Research Assistant)* — [[GitHub]](https://github.com/AntoDelinXavier/SAGE)  
+**[SAGE: Bayesian Phase Segmentation and Materials Property Prediction](https://github.com/AntoDelinXavier/SAGE)** *(Research Assistant)*  
 Developed a data-driven system to identify material phase boundaries and predict properties using Bayesian machine learning models. Applied uncertainty analysis and optimization techniques to support efficient experimental design, and built scalable data processing pipelines using Python, JAX, and NumPyro.
 
-**LEGOLAS: Data-Driven Autonomous Experimentation Using Machine Learning** *(Teaching Assistant)* — [[GitHub]](https://github.com/AntoDelinXavier/LEGOLAS)  
+**[LEGOLAS: Data-Driven Autonomous Experimentation Using Machine Learning](https://github.com/AntoDelinXavier/LEGOLAS)** *(Teaching Assistant)*  
 Contributed to a closed-loop machine learning experimentation system integrating data acquisition, model training, and adaptive optimization. Built real-time data ingestion and model-based decision pipelines, and served as a Teaching Assistant guiding students in ML-driven optimization workflows using Python.
 
-**Market Basket Analysis for Cross-Sell and Upsell Optimization** *(Capstone Project)* — [[GitHub]](https://github.com/AntoDelinXavier/Recommendation-System)  
+**[Market Basket Analysis for Cross-Sell and Upsell Optimization](https://github.com/AntoDelinXavier/Recommendation-System)** *(Capstone Project)*  
 Designed and implemented a recommendation engine using Apriori and FP-Growth to identify cross-sell and upsell opportunities. Ranked by association rules and used Pandas, NumPy, and SQL to deliver revenue-boosting insights.
 
-**Predictive Modeling of Tribological Properties in Squeeze Cast Hybrid Composites** *(Undergraduate Thesis)* — [[GitHub]](https://github.com/AntoDelinXavier/Composite-Material-Regression)  
+**[Predictive Modeling of Tribological Properties in Squeeze Cast Hybrid Composites](https://github.com/AntoDelinXavier/Composite-Material-Regression)** *(Undergraduate Thesis)*  
 Developed Al6061-CeO2-MoS2 hybrid composites via squeeze casting and conducted tribological analysis. Applied Box-Behnken DOE and polynomial regression to predict wear rates and optimise parameters.
 
 ---
