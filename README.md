@@ -1,48 +1,53 @@
 # Anto Delin Xavier
 
-**Data Analyst/Scientist**  
+**Data Analyst / Scientist**  
 University of Maryland, College Park  
-adelin@umd.edu | +1 (240) 351-0894 | [LinkedIn](https://www.linkedin.com/in/anto-delin-xavier-5906b589/)  
+adelin@umd.edu | +1 (240) 351-0894 | [LinkedIn](https://www.linkedin.com/in/anto-delin-xavier-5906b589/)
 
 ---
 
 ## About Me
-I am a Data Science graduate student at the University of Maryland, College Park, with an engineering background and hands-on experience in machine learning, natural language processing, and data analytics. I specialize in transforming data into actionable insights and building predictive systems that optimize decision-making and operational efficiency. My focus areas include supervised learning, NLP, recommendation systems, and data-driven business solutions.
+Data science professional with expertise in ML models, GenAI pipelines, and analytics solutions for enterprise clients. Currently pursuing an MS in Data Science at the University of Maryland with research in Bayesian machine learning and autonomous experimentation. Focus areas include supervised learning, NLP, recommendation systems, and data-driven business solutions.
 
 ---
 
-## Experience
+## Professional Experience
 
 **Data Science Intern – Axion Ray, New York, USA**  
-*May 2025 – Aug 2025*  
-- Built a customer churn prediction model using Python (Scikit-learn, XGBoost) and SQL on Azure Databricks; achieved 89% ROC-AUC and enabled proactive retention campaigns.  
-- Designed and fine-tuned a Generative AI pipeline (OpenAI GPT + LangChain) to summarize support tickets, reducing manual triage time by approximately 50%.  
-- Automated MLOps workflows with MLflow and Docker for experiment tracking, model registry, and deployment, reducing release cycles by 30%.
+*May 2025 – Aug 2025*
+- Built a predictive customer churn model using Python (Scikit-learn, XGBoost) and SQL on Azure Databricks; achieved 89% ROC-AUC, enabling proactive retention campaigns.
+- Designed and fine-tuned a Generative AI pipeline (OpenAI GPT and LangChain) to summarize support tickets; reduced manual triage time by 50% and improved response consistency.
+- Automated MLOps workflow with MLflow and Docker, implementing experiment tracking, model registry, and deployment scripts that cut release cycles by 30%.
 
-**Data Analyst & Project Owner – Axion Ray, Bangalore, India**  
-*Jun 2023 – Jul 2024*  
-- Led the transition of a proof of concept to production for three enterprise clients.  
-- Applied Prompt Engineering with GPT, BERT, and Claude to automate data mining and achieve 95% accuracy in NLP-based analytics.  
-- Developed and optimized sentiment analysis and topic modeling pipelines using Transformers and attention mechanisms.  
-- Created end-to-end pipelines using Python, PyTorch, TensorFlow, and SQL for automated analytics.
+**Data Analyst and Project Owner – Axion Ray, Bangalore, India**  
+*Jun 2023 – Jul 2024*
+- Led the end-to-end process from conceptualisation to execution, successfully transitioning a Proof of Concept deployment into a fully launched project for three major clients.
+- Implemented the automation of data mining, cleaning through prompt engineering using LLMs and data analysis, achieving an accuracy of 95%.
+- Utilized Power BI with advanced DAX expressions for data modeling, and integrated data from SQL and Excel using Power Query to resolve performance bottlenecks and ensure smooth report operations.
+- Extensively utilized Python for scripting and ML workflows with PyTorch and TensorFlow, and SQL for querying and transforming data in end-to-end pipelines.
 
-**Graduate Engineering Trainee – Carborundum Universal Ltd, Hosur, India**  
-*Aug 2022 – May 2023*  
-- Built a Ridge Regression model for analyzing machine-material correlations, reducing product defects by 25%.  
-- Implemented Lean and TQM process improvements, cutting grinding costs by 75%.  
-- Created Power BI dashboards and integrated MongoDB with PostgreSQL to accelerate report generation.
+**Graduate Engineering Trainee – Carborundum Universal Limited, Hosur, India**  
+*Aug 2022 – May 2023*
+- Designed and implemented a Ridge regression model to analyse machine-material correlations, reducing product cracks by 25% and improving quality.
+- Applied Lean and TQM process improvements to reduce ceramic bend issues, cutting grinding costs by 75%.
+- Developed Power BI dashboards, advanced Excel (VBA) and Google Sheets tools to monitor production data.
+- Built a dual-database solution using MongoDB (real-time) and PostgreSQL, speeding up report generation.
 
 ---
 
-## Selected Projects
+## Research Experience
 
-- **[Customer Churn Prediction](https://github.com/AntoDelinXavier/Customer-Churn-Prediction)** – Machine learning model for telecom churn with cost-sensitive optimization (ROC-AUC 0.89).  
-- **[Generative AI Ticket Summarizer](https://github.com/AntoDelinXavier/Generative-AI-Ticket-Summarizer)** – GPT + LangChain pipeline for automatic summarization of support tickets.  
-- **[Cross-Sell and Upsell Recommendation System](https://github.com/AntoDelinXavier/Recommendation-System)** – Association rule mining using Apriori and FP-Growth for targeted marketing.  
-- **[Predictive Regression for Composite Materials](https://github.com/AntoDelinXavier/Composite-Material-Regression)** – Box-Behnken DOE and polynomial regression to predict wear rates.  
-- **[HR Analytics Dashboard](https://github.com/AntoDelinXavier/HR-Analytics-Dashboard)** – Power BI-based dashboard for key HR metrics: hiring, attrition, and engagement.  
-- **[Diabetic Retinopathy Detection Using Deep Learning](https://github.com/AntoDelinXavier/Diabetic-Retinopathy-Detection-CNN)** – CNN-based EfficientNet model trained on Kaggle fundus image datasets to detect diabetic retinopathy, achieving 87.6% accuracy for binary classification.  
-- **[Chicken Disease Classification Model](https://github.com/AntoDelinXavier/Chicken-Disease-Classification-Model)** – Deep learning system for classifying chicken fecal images as healthy or infected (Coccidiosis) using CNNs, deployed via AWS with CI/CD pipelines and Flask API.  
+**SAGE: Bayesian Phase Segmentation and Materials Property Prediction** *(Research Assistant)*  
+Developed a data-driven system to identify material phase boundaries and predict properties using Bayesian machine learning models. Applied uncertainty analysis and optimization techniques to support efficient experimental design, and built scalable data processing pipelines using Python, JAX, and NumPyro.
+
+**LEGOLAS: Data-Driven Autonomous Experimentation Using Machine Learning** *(Teaching Assistant)*  
+Contributed to a closed-loop machine learning experimentation system integrating data acquisition, model training, and adaptive optimization. Built real-time data ingestion and model-based decision pipelines, and served as a Teaching Assistant guiding students in ML-driven optimization workflows using Python.
+
+**Market Basket Analysis for Cross-Sell and Upsell Optimization** *(Capstone Project)*  
+Designed and implemented a recommendation engine using Apriori and FP-Growth to identify cross-sell and upsell opportunities. Ranked by association rules and used Pandas, NumPy, and SQL to deliver revenue-boosting insights.
+
+**Predictive Modeling of Tribological Properties in Squeeze Cast Hybrid Composites** *(Undergraduate Thesis)*  
+Developed Al6061-CeO2-MoS2 hybrid composites via squeeze casting and conducted tribological analysis. Applied Box-Behnken DOE and polynomial regression to predict wear rates and optimise parameters.
 
 ---
 
@@ -50,32 +55,34 @@ I am a Data Science graduate student at the University of Maryland, College Park
 
 | Category | Tools and Frameworks |
 |-----------|----------------------|
-| **Data Analysis** | Python (Pandas, NumPy, SciPy), R, SQL, MS Office, GSuite |
-| **Machine Learning** | Scikit-learn, XGBoost, TensorFlow, PyTorch, LangChain |
+| **General** | Data Analysis, Data Visualisation, Data Structures & Algorithms, Recommendation Engines, Predictive Modelling, Clustering Models, Prompt Engineering, NLP, Data Mining |
+| **Programming Languages** | Python, SQL, R, C, C++ |
+| **Machine Learning** | Scikit-learn, XGBoost, TensorFlow, PyTorch, LangChain, SciPy |
 | **MLOps / DevOps** | Docker, GitHub Actions, MLflow |
-| **Data Engineering** | Hadoop, Spark, MLflow, Azure Databricks |
+| **Data Engineering** | Hadoop, Spark, Azure Databricks |
 | **Databases** | PostgreSQL, MongoDB |
 | **Visualization** | Power BI, Tableau, Matplotlib, Seaborn |
-| **Cloud** | AWS , Azure |
+| **Cloud** | AWS, Azure |
+| **Productivity** | MS Office, GSuite |
 
 ---
 
 ## Education
 
-**University of Maryland, College Park**  
+**University of Maryland, College Park** | *Aug 2024 – May 2026*  
 Master of Science in Data Science | GPA: 3.8 / 4.0  
-Teaching & Research Assistant – Machine Learning (MSE)  
+Teaching & Research Assistant – Machine Learning (MSE)
 
-**PSG College of Technology, Coimbatore, India**  
-Bachelor of Engineering in Production Engineering | GPA: 8.21 / 10  
+**PSG College of Technology, Coimbatore, India** | *Aug 2018 – May 2022*  
+Bachelor of Engineering in Production Engineering | GPA: 8.21 / 10
 
 ---
 
 ## Certifications
-- Data Science Professional Certification – NIIT  
-- Data Analytics Specialization – Google  
-- Python Certification – University of Michigan  
-- Leading People and Teams – University of Michigan  
+- Data Science Professional Certification – NIIT
+- Data Analytics Specialization – Google
+- Python Certification – University of Michigan
+- Leading People and Teams – University of Michigan
 
 ---
 
