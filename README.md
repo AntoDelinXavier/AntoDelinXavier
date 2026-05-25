@@ -36,7 +36,7 @@ Data science professional with expertise in ML models, GenAI pipelines, and anal
 
 ## Research Experience
 
-**[SAGE: Bayesian Phase Segmentation and Materials Property Prediction](https://github.com/AntoDelinXavier/SAGE)** *(Research Assistant)*  
+**[SAGE: Bayesian Phase Segmentation and Materials Property Prediction]([https://github.com/AntoDelinXavier/SAGE](https://github.com/KusneNIST/SAGE/tree/main))** *(Research Assistant)*  
 Developed a data-driven system to identify material phase boundaries and predict properties using Bayesian machine learning models. Applied uncertainty analysis and optimization techniques to support efficient experimental design, and built scalable data processing pipelines using Python, JAX, and NumPyro.
 
 **[LEGOLAS: Data-Driven Autonomous Experimentation Using Machine Learning](https://github.com/AntoDelinXavier/LEGOLAS)** *(Teaching Assistant)*  
