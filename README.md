@@ -37,10 +37,10 @@ Data science professional with expertise in ML models, GenAI pipelines, and anal
 ## Research Experience
 
 **[SAGE: Bayesian Phase Segmentation and Materials Property Prediction](https://github.com/KusneNIST/SAGE/tree/main)** *(Research Assistant)*  
-Developed a data-driven system to identify material phase boundaries and predict properties using Bayesian machine learning models. Applied uncertainty analysis and optimization techniques to support efficient experimental design, and built scalable data processing pipelines using Python, JAX, and NumPyro.
+Extending a prior phase-segmentation framework (SAGE 1.0) to predict continuous phase abundances directly from composition data, removing the need for labeled phase regions, and jointly modeling functional properties as Gaussian Processes over composition and abundance. Built and compared multiple Bayesian GP models in Python, JAX, and NumPyro, and developed visualization tools to evaluate predictions across the composition space.
 
 **[LEGOLAS: Data-Driven Autonomous Experimentation Using Machine Learning](https://github.com/AntoDelinXavier/LEGOLAS)** *(Teaching Assistant)*  
-Contributed to a closed-loop machine learning experimentation system integrating data acquisition, model training, and adaptive optimization. Built real-time data ingestion and model-based decision pipelines, and served as a Teaching Assistant guiding students in ML-driven optimization workflows using Python.
+Teaching Assistant for a course on closed-loop autonomous experimentation, helping students understand and implement pipelines combining data acquisition, ML model training, and adaptive/Bayesian optimization in Python.
 
 **[Market Basket Analysis for Cross-Sell and Upsell Optimization](https://github.com/AntoDelinXavier/Recommendation-System)** *(Capstone Project)*  
 Designed and implemented a recommendation engine using Apriori and FP-Growth to identify cross-sell and upsell opportunities. Ranked by association rules and used Pandas, NumPy, and SQL to deliver revenue-boosting insights.
